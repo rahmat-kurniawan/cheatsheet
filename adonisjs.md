@@ -19,7 +19,7 @@ npm i --save pg
 
 npm i --save sqlite3
 ```
-## Config Database
+## Config Databases
 ```
 DB_CONNECTION = [mysql, sqlite, pg]
 DB_HOST = YOUR_LOCALHOST_ADDRESS
